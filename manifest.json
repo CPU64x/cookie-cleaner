@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie Cleaner",
+  "description": "An extension to clean cookies, by CPU64x",
+  "version": "1.0.2",
+  "permissions": ["cookies", "webNavigation"],
+  "host_permissions": [
+    "*://*/"
+  ],
+  "action": {
+    "default_popup": "cookie.html",
+    "default_icon": "assets/www-cookie.png"
+  }
+}

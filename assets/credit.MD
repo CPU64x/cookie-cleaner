@@ -1,0 +1,1 @@
+<a href="https://www.flaticon.com/fr/icones-gratuites/boite-a-cookies" title="boîte à cookies icônes">Boîte à cookies icônes créées par Vichanon Chaimsuk - Flaticon</a>
